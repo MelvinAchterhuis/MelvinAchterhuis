@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋 Hi, I'm Melvin Achterhuis
 
-<!--
-**MelvinAchterhuis/MelvinAchterhuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Have a look at my open source Shopware 6 plugins 💙:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* https://github.com/MelvinAchterhuis/MelvCheckoutHeaderFooter
+* https://github.com/MelvinAchterhuis/MelvCustomBadges
+* https://github.com/MelvinAchterhuis/MelvManufacturerMediaListing
+* https://github.com/MelvinAchterhuis/MelvNewsletterFooter
+* https://github.com/MelvinAchterhuis/MelvPropertiesProductbox
+* https://github.com/MelvinAchterhuis/MelvQuantityProductbox
+* https://github.com/MelvinAchterhuis/MelvStaticUpselling
+* https://github.com/MelvinAchterhuis/MelvStickyCart
+* https://github.com/MelvinAchterhuis/MelvVariantSwitch
