@@ -9,6 +9,7 @@ Have a look at my open source Shopware 6 plugins 💙:
 * https://github.com/MelvinAchterhuis/MelvNewsletterFooter
 * https://github.com/MelvinAchterhuis/MelvPropertiesProductbox
 * https://github.com/MelvinAchterhuis/MelvQuantityProductbox
+* https://github.com/MelvinAchterhuis/MelvSoldOutVariants
 * https://github.com/MelvinAchterhuis/MelvStaticUpselling
 * https://github.com/MelvinAchterhuis/MelvStickyCart
 * https://github.com/MelvinAchterhuis/MelvVariantSwitch
