@@ -3,6 +3,7 @@
 Have a look at my open source Shopware 6 plugins 💙:
 
 * https://github.com/MelvinAchterhuis/MelvCheckoutHeaderFooter
+* https://github.com/MelvinAchterhuis/MelvCompanyCustomerGroup
 * https://github.com/MelvinAchterhuis/MelvCustomBadges
 * https://github.com/MelvinAchterhuis/MelvCustomerOverview
 * https://github.com/MelvinAchterhuis/MelvCustomerKvkNumber
