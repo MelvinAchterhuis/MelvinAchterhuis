@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Melvin Achterhuis
 
+
+<img src="https://user-images.githubusercontent.com/26538915/129476485-ce8ad0f2-f9ba-4912-86e8-b8c026255ac8.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/26538915/129476486-34ce693c-e537-4f2d-bd2d-dc97978a2aff.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/26538915/129476487-e13be205-4d64-4a05-96da-53fc0ae07509.png" width="30%"></img> 
+
+
 Have a look at my open source Shopware 6 plugins 💙:
 
 * https://github.com/MelvinAchterhuis/MelvCheckoutHeaderFooter
@@ -18,5 +22,3 @@ Have a look at my open source Shopware 6 plugins 💙:
 * https://github.com/MelvinAchterhuis/MelvStickyCart
 * https://github.com/MelvinAchterhuis/MelvVariantSwitch
 * https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks
-
-<img src="https://user-images.githubusercontent.com/26538915/129476485-ce8ad0f2-f9ba-4912-86e8-b8c026255ac8.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/26538915/129476486-34ce693c-e537-4f2d-bd2d-dc97978a2aff.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/26538915/129476487-e13be205-4d64-4a05-96da-53fc0ae07509.png" width="30%"></img> 
