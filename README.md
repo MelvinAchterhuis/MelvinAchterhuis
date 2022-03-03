@@ -16,6 +16,7 @@ Have a look at my open source Shopware 6 plugins 💙:
 * https://github.com/MelvinAchterhuis/MelvManufacturerMediaListing
 * https://github.com/MelvinAchterhuis/MelvNewsletterFooter
 * https://github.com/MelvinAchterhuis/MelvPropertiesProductbox
+* https://github.com/MelvinAchterhuis/MelvPropertyGroupOptionCustomFields
 * https://github.com/MelvinAchterhuis/MelvPropertyGroups
 * https://github.com/MelvinAchterhuis/MelvQuantityProductbox
 * https://github.com/MelvinAchterhuis/MelvSoldOutVariants
