@@ -25,3 +25,6 @@ Have a look at my open source Shopware 6 plugins 💙:
 * https://github.com/MelvinAchterhuis/MelvVariantsDetail
 * https://github.com/MelvinAchterhuis/MelvVariantSwitch
 * https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks
+
+Also have a look at my contributions to the Shopware 6 repository:
+https://github.com/shopware/platform/commits?author=melvinachterhuis
