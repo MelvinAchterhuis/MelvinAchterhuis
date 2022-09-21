@@ -6,6 +6,7 @@
 
 Have a look at my open source Shopware 6 plugins 💙:
 
+* https://github.com/MelvinAchterhuis/MelvAutoExchangeRates
 * https://github.com/MelvinAchterhuis/MelvCheckoutHeaderFooter
 * https://github.com/MelvinAchterhuis/MelvCompanyCustomerGroup
 * https://github.com/MelvinAchterhuis/MelvCustomBadges
