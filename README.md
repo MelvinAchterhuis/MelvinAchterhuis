@@ -23,6 +23,7 @@ Have a look at my open source Shopware 6 plugins 💙:
 * https://github.com/MelvinAchterhuis/MelvPropertyGroups
 * https://github.com/MelvinAchterhuis/MelvQuantityProductbox
 * https://github.com/MelvinAchterhuis/MelvSoldOutVariants
+* https://github.com/MelvinAchterhuis/MelvSpeculationRules
 * https://github.com/MelvinAchterhuis/MelvStaticUpselling
 * https://github.com/MelvinAchterhuis/MelvStickyCart
 * https://github.com/MelvinAchterhuis/MelvTurnstile
